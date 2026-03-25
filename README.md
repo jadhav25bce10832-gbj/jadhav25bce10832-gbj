@@ -27,4 +27,4 @@
 ---
 
 ## 📫 Contact
-- Email: (your email optional)
+- Email: gauribjadhav2007@gmail.com
