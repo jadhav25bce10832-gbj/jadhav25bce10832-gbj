@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Gauri Jadhav
 
-<!--
-**jadhav25bce10832-gbj/jadhav25bce10832-gbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (CORE) Student  
+📍 First Year  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- I am learning digital skills and programming  
+- Interested in technology and innovation  
+- I want to improve my coding and problem-solving skills  
+
+---
+
+## 🎯 Goals
+- Learn programming languages  
+- Build projects on GitHub  
+- Gain practical knowledge in computer science  
+
+---
+
+## 🔧 Skills (Beginner Level)
+- Basic Computer Knowledge  
+- Learning GitHub  
+- Exploring Coding Platforms  
+
+---
+
+## 📫 Contact
+- Email: (your email optional)
